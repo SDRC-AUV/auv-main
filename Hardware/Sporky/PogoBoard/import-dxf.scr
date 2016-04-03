@@ -1,0 +1,26 @@
+# X[-31620.7526, 31620.7526]
+# Y[-18256.2500, 41275.0000]
+# size[59531.2500, 63241.5051]
+# lines=0, arcs=0, circles=4, polylines=0
+
+# import-dxf generated script file.
+Grid mic 1 off;
+Set Wire_Bend 2;
+Change Font Vector;
+Change Width 254.00;
+Layer  20;
+
+# circle 0
+Circle (31620.75 -18256.25) (31620.75 -16097.25);
+
+# circle 1
+Circle (0.00 36512.50) (0.00 38671.50);
+
+# circle 2
+Circle (0.00 0.00) (0.00 41275.00);
+
+# circle 3
+Circle (-31620.75 -18256.25) (-31620.75 -16097.25);
+
+Window Fit;
+Grid last;
